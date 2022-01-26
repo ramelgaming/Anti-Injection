@@ -7,6 +7,11 @@ AddEventHandler("inject:kick", function(reason)
 	DropPlayer(source, reason)	
 end)
 
+RegisterServerEvent("stop:kick")
+AddEventHandler("stop:kick", function(reason)
+	DropPlayer(source, reason)	
+end)
+
 RegisterServerEvent("screenshot:log")
 AddEventHandler("screenshot:log", function(screenshots)
     local _source = source
