@@ -3,8 +3,6 @@ Anti Injection System For FiveM
 
 ESX-ONLY
 
-install is very vesy ez 
-
 ## INSTALLATION ##
 
 Drug Anti-Injection In Folder resources/[esx]
