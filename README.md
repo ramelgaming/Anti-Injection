@@ -9,6 +9,6 @@ install is very vesy ez
 
 Drug Anti-Injection In Folder resources/[esx]
 
-# Add In server.cfg ensure Anti-Injection 
+## SERVER CFG ##
 
-# OR start Anti-Injection
+Add In server.cfg ensure Anti-Injection OR start Anti-Injection
